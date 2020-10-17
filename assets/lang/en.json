@@ -1,0 +1,12 @@
+{
+  "recommended_for_you": "Recommended for you",
+  "username": "username",
+  "password": "password",
+  "submit": "Submit",
+  "tournaments_played": "Tournaments\nplayed",
+  "tournaments_won": "Tournaments\nwon",
+  "winning_percentage": "Winning\npercentage",
+  "invalid_username": "username should be between 3 to 10 characters",
+  "invalid_password": "password should be between 3 to 10 characters",
+  "login_error": "Invalid email/password"
+}

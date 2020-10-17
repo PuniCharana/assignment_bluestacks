@@ -1,0 +1,12 @@
+{
+  "recommended_for_you": "あなたにおすすめ",
+  "username": "ユーザー名",
+  "password": "パスワード",
+  "submit": "参加する",
+  "tournaments_played": "プレーしたトーナメント",
+  "tournaments_won": "トーナメントが勝ちました",
+  "winning_percentage": "勝率",
+  "invalid_username": "ユーザー名は3〜10文字である必要があります",
+  "invalid_password": "パスワードは3〜10文字である必要があります",
+  "login_error": "無効なメール/パスワード"
+}
