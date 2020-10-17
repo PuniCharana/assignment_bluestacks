@@ -1,9 +1,10 @@
 # BlueStacks - Assignment
 BlueStacks interview assignment, to create a Flutter App.
 
-![Login Screen](https://raw.github.com/PuniCharana/assignment_bluestacks/master/screenshots/login.jpg)
-![Login Error Screen](https://raw.github.com/PuniCharana/assignment_bluestacks/master/screenshots/error.jpg)
-![Home Screen](https://raw.github.com/PuniCharana/assignment_bluestacks/master/screenshots/home.jpg)
+
+<img src="https://raw.github.com/PuniCharana/assignment_bluestacks/master/screenshots/login.jpg" alt="Login Screen" width="250px">
+<img src="https://raw.github.com/PuniCharana/assignment_bluestacks/master/screenshots/error.jpg" alt="Login Error Screen" width="250px">
+<img src="https://raw.github.com/PuniCharana/assignment_bluestacks/master/screenshots/home.jpg" alt="Home Screen" width="250px">
 
 ---
 
